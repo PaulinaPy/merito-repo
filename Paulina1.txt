@@ -1,1 +1,0 @@
-test wysyłki - wysyłka zawsze kilku plików na raz
